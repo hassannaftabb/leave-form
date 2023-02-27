@@ -43,7 +43,6 @@ const Form = () => {
         });
     },
   });
-  console.log(formik.values);
   return (
     <FormContainer>
       <Heading size={"6xl"} text={"Leave Form"} />
